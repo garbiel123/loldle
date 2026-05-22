@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Loldle</title>
+
+    <style>
+        body {
+            background: #111827;
+            color: white;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin: 0;
+            padding: 40px;
+        }
+
+        h1 {
+            font-size: 42px;
+            margin-bottom: 10px;
+        }
+
+        p {
+            color: #9ca3af;
+        }
+
+        .game-container {
+            max-width: 900px;
+            margin: auto;
+        }
+
+        input {
+            width: 300px;
+            padding: 14px;
+            border-radius: 10px;
+            border: none;
+            font-size: 18px;
+            margin-top: 20px;
+        }
+
+        button {
+            padding: 14px 22px;
+            border: none;
+            border-radius: 10px;
+            background: #7c3aed;
+            color: white;
+            font-size: 18px;
+            cursor: pointer;
+            margin-left: 10px;
+            transition: 0.2s;
+        }
+
+        button:hover {
+            background: #6d28d9;
+        }
+
+        table {
+            width: 100%;
+            margin-top: 30px;
+            border-collapse: separate;
+            border-spacing: 10px;
+        }
+
+        td {
+            padding: 15px;
+            border-radius: 12px;
+            font-weight: bold;
+        }
+
+        .correct {
+            background: #16a34a;
+        }
+
+        .partial {
+            background: #ca8a04;
+        }
+
+        .wrong {
+            background: #dc2626;
+        }
+
+        .win-screen {
+            margin-top: 30px;
+            display: none;
+        }
+
+        .play-again {
+            margin-top: 20px;
+            background: #2563eb;
+        }
+
+        .header-row td {
+            background: #374151;
+        }
+    </style>
+</head>
+<body>
+
+<div class="game-container">
+
+    <h1>Loldle</h1>
+    <p>Odgadnij championa!</p>
+
+    <input type="text" id="guessInput" placeholder="Wpisz championa">
+    <button onclick="checkGuess()">Sprawdź</button>
+
+    <table id="resultTable">
+        <tr class="header-row">
+            <td>Name</td>
+            <td>Gender</td>
+            <td>Lane</td>
+            <td>Region</td>
+            <td>Resource</td>
+            <td>Year</td>
+        </tr>
+    </table>
+
+    <div class="win-screen" id="winScreen">
+        <h2>Wygrałeś!</h2>
+        <button class="play-again" onclick="restartGame()">Zagraj ponownie</button>
+    </div>
+
+</div>
+<script src="script.js"></script>
+
+</body>
+</html>

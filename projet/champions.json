@@ -1,0 +1,1328 @@
+[
+  {
+    "name": "Aatrox",
+    "gender": "Male",
+    "lane": "Top",
+    "region": "Runeterra",
+    "resource": "None",
+    "year": 2013
+  },
+  {
+    "name": "Ahri",
+    "gender": "Female",
+    "lane": "Mid",
+    "region": "Ionia",
+    "resource": "Mana",
+    "year": 2011
+  },
+  {
+    "name": "Akali",
+    "gender": "Female",
+    "lane": "Mid",
+    "region": "Ionia",
+    "resource": "Energy",
+    "year": 2010
+  },
+  {
+    "name": "Akshan",
+    "gender": "Male",
+    "lane": "Mid",
+    "region": "Shurima",
+    "resource": "Mana",
+    "year": 2021
+  },
+  {
+    "name": "Alistar",
+    "gender": "Male",
+    "lane": "Support",
+    "region": "Runeterra",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Amumu",
+    "gender": "Male",
+    "lane": "Jungle",
+    "region": "Shurima",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Anivia",
+    "gender": "Female",
+    "lane": "Mid",
+    "region": "Freljord",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Annie",
+    "gender": "Female",
+    "lane": "Mid",
+    "region": "Noxus",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Aphelios",
+    "gender": "Male",
+    "lane": "ADC",
+    "region": "Targon",
+    "resource": "Mana",
+    "year": 2019
+  },
+  {
+    "name": "Ashe",
+    "gender": "Female",
+    "lane": "ADC",
+    "region": "Freljord",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Aurelion Sol",
+    "gender": "Male",
+    "lane": "Mid",
+    "region": "Targon",
+    "resource": "Mana",
+    "year": 2016
+  },
+  {
+    "name": "Azir",
+    "gender": "Male",
+    "lane": "Mid",
+    "region": "Shurima",
+    "resource": "Mana",
+    "year": 2014
+  },
+  {
+    "name": "Bard",
+    "gender": "Male",
+    "lane": "Support",
+    "region": "Runeterra",
+    "resource": "Mana",
+    "year": 2015
+  },
+  {
+    "name": "Bel'Veth",
+    "gender": "Female",
+    "lane": "Jungle",
+    "region": "Void",
+    "resource": "None",
+    "year": 2022
+  },
+  {
+    "name": "Blitzcrank",
+    "gender": "Male",
+    "lane": "Support",
+    "region": "Zaun",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Brand",
+    "gender": "Male",
+    "lane": "Mid",
+    "region": "Freljord",
+    "resource": "Mana",
+    "year": 2011
+  },
+  {
+    "name": "Braum",
+    "gender": "Male",
+    "lane": "Support",
+    "region": "Freljord",
+    "resource": "Mana",
+    "year": 2014
+  },
+  {
+    "name": "Caitlyn",
+    "gender": "Female",
+    "lane": "ADC",
+    "region": "Piltover",
+    "resource": "Mana",
+    "year": 2011
+  },
+  {
+    "name": "Camille",
+    "gender": "Female",
+    "lane": "Top",
+    "region": "Piltover",
+    "resource": "Mana",
+    "year": 2016
+  },
+  {
+    "name": "Cassiopeia",
+    "gender": "Female",
+    "lane": "Mid",
+    "region": "Noxus",
+    "resource": "Mana",
+    "year": 2010
+  },
+  {
+    "name": "Cho'Gath",
+    "gender": "Male",
+    "lane": "Top",
+    "region": "Void",
+    "resource": "Mana",
+    "year": 2009
+  },
+  {
+    "name": "Corki",
+    "gender": "Male",
+    "lane": "ADC",
+    "region": "Bandle City",
+    "resource": "Mana",
+    "year": 2009
+  },   
+    {
+      "name": "Darius",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Noxus",
+      "resource": "Mana",
+      "year": 2012
+    },
+    {
+      "name": "Diana",
+      "gender": "Female",
+      "lane": "Mid",
+      "region": "Targon",
+      "resource": "Mana",
+      "year": 2012
+    },
+    {
+      "name": "Dr. Mundo",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Zaun",
+      "resource": "Health",
+      "year": 2009
+    },
+    {
+      "name": "Draven",
+      "gender": "Male",
+      "lane": "ADC",
+      "region": "Noxus",
+      "resource": "Mana",
+      "year": 2012
+    },
+    {
+      "name": "Ekko",
+      "gender": "Male",
+      "lane": "Mid",
+      "region": "Zaun",
+      "resource": "Mana",
+      "year": 2015
+    },
+    {
+      "name": "Elise",
+      "gender": "Female",
+      "lane": "Jungle",
+      "region": "Noxus",
+      "resource": "Mana",
+      "year": 2012
+    },
+    {
+      "name": "Evelynn",
+      "gender": "Female",
+      "lane": "Jungle",
+      "region": "Runeterra",
+      "resource": "Mana",
+      "year": 2009
+    },
+    {
+      "name": "Ezreal",
+      "gender": "Male",
+      "lane": "ADC",
+      "region": "Piltover",
+      "resource": "Mana",
+      "year": 2010
+    },
+    {
+      "name": "Fiddlesticks",
+      "gender": "Male",
+      "lane": "Jungle",
+      "region": "Runeterra",
+      "resource": "Mana",
+      "year": 2009
+    },
+    {
+      "name": "Fiora",
+      "gender": "Female",
+      "lane": "Top",
+      "region": "Demacia",
+      "resource": "Mana",
+      "year": 2012
+    },
+    {
+      "name": "Fizz",
+      "gender": "Male",
+      "lane": "Mid",
+      "region": "Bilgewater",
+      "resource": "Mana",
+      "year": 2011
+    },
+    {
+      "name": "Galio",
+      "gender": "Male",
+      "lane": "Mid",
+      "region": "Demacia",
+      "resource": "Mana",
+      "year": 2010
+    },
+    {
+      "name": "Gangplank",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Bilgewater",
+      "resource": "Mana",
+      "year": 2009
+    },
+    {
+      "name": "Garen",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Demacia",
+      "resource": "None",
+      "year": 2010
+    },
+    {
+      "name": "Gnar",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Freljord",
+      "resource": "Rage",
+      "year": 2014
+    },
+    {
+      "name": "Gragas",
+      "gender": "Male",
+      "lane": "Top",
+      "region": "Freljord",
+      "resource": "Mana",
+      "year": 2010
+    },
+    {
+      "name": "Graves",
+      "gender": "Male",
+      "lane": "Jungle",
+      "region": "Bilgewater",
+      "resource": "Mana",
+      "year": 2011
+    },
+    {
+      "name": "Gwen",
+      "gender": "Female",
+      "lane": "Top",
+      "region": "Shadow Isles",
+      "resource": "Mana",
+      "year": 2021
+    },
+    
+      {
+        "name": "Hecarim",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Heimerdinger",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Piltover",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Hwei",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2023
+      },
+      {
+        "name": "Illaoi",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2015
+      },
+      {
+        "name": "Irelia",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Ivern",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2016
+      },
+      {
+        "name": "Janna",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Jarvan IV",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Jax",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Jayce",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Piltover",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Jhin",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2016
+      },
+      {
+        "name": "Jinx",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2013
+      },
+      {
+        "name": "K'Sante",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2022
+      },
+      {
+        "name": "Kai'Sa",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2018
+      },
+      {
+        "name": "Kalista",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2014
+      },
+      {
+        "name": "Karma",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Karthus",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Kassadin",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Katarina",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Noxus",
+        "resource": "None",
+        "year": 2009
+      },
+      {
+        "name": "Kayle",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Kayn",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2017
+      },
+      {
+        "name": "Kennen",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Ionia",
+        "resource": "Energy",
+        "year": 2010
+      },
+      {
+        "name": "Kha'Zix",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Kindred",
+        "gender": "Other",
+        "lane": "Jungle",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2015
+      },
+      {
+        "name": "Kled",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Noxus",
+        "resource": "Courage",
+        "year": 2016
+      },
+      {
+        "name": "Kog'Maw",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "LeBlanc",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Lee Sin",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ionia",
+        "resource": "Energy",
+        "year": 2011
+      },
+      {
+        "name": "Leona",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Lillia",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2020
+      },
+      {
+        "name": "Lissandra",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2013
+      },
+      {
+        "name": "Lucian",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2013
+      },
+      {
+        "name": "Lulu",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Bandle City",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Lux",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Malphite",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Malzahar",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Maokai",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Master Yi",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Milio",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2023
+      },
+      {
+        "name": "Miss Fortune",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Mordekaiser",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Noxus",
+        "resource": "Shield",
+        "year": 2010
+      },
+      {
+        "name": "Morgana",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Naafiri",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2023
+      },
+      {
+        "name": "Nami",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Nasus",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Nautilus",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Neeko",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2018
+      },
+      {
+        "name": "Nidalee",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Nilah",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2022
+      },
+      {
+        "name": "Nocturne",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Nunu & Willump",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Olaf",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Orianna",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Piltover",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Ornn",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2017
+      },
+      {
+        "name": "Pantheon",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Poppy",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Pyke",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2018
+      },{
+        "name": "Qiyana",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2019
+      },
+      {
+        "name": "Quinn",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2013
+      },
+      {
+        "name": "Rakan",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2017
+      },
+      {
+        "name": "Rammus",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Rek'Sai",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Void",
+        "resource": "Rage",
+        "year": 2014
+      },
+      {
+        "name": "Rell",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2020
+      },
+      {
+        "name": "Renata Glasc",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2022
+      },
+      {
+        "name": "Renekton",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Shurima",
+        "resource": "Fury",
+        "year": 2011
+      },
+      {
+        "name": "Rengar",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ixtal",
+        "resource": "Ferocity",
+        "year": 2012
+      },
+      {
+        "name": "Riven",
+        "gender": "Female",
+        "lane": "Top",
+        "region": "Noxus",
+        "resource": "None",
+        "year": 2011
+      },
+      {
+        "name": "Rumble",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Bandle City",
+        "resource": "Heat",
+        "year": 2011
+      },
+      {
+        "name": "Ryze",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Samira",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2020
+      },
+      {
+        "name": "Sejuani",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Senna",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2019
+      },
+      {
+        "name": "Seraphine",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Piltover",
+        "resource": "Mana",
+        "year": 2020
+      },
+      {
+        "name": "Sett",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Ionia",
+        "resource": "Grit",
+        "year": 2020
+      },
+      {
+        "name": "Shaco",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Shen",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Ionia",
+        "resource": "Energy",
+        "year": 2010
+      },
+      {
+        "name": "Shyvana",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Demacia",
+        "resource": "Fury",
+        "year": 2011
+      },
+      {
+        "name": "Singed",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Sion",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Sivir",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Skarner",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Smolder",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Camavor",
+        "resource": "Mana",
+        "year": 2024
+      },
+      {
+        "name": "Sona",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Soraka",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Swain",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Sylas",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2019
+      },
+      {
+        "name": "Syndra",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Tahm Kench",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2015
+      },
+      {
+        "name": "Taliyah",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2016
+      },
+      {
+        "name": "Talon",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Noxus",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Taric",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Teemo",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Bandle City",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Thresh",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2013
+      },
+      {
+        "name": "Tristana",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Bandle City",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Trundle",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Tryndamere",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Freljord",
+        "resource": "Fury",
+        "year": 2009
+      },
+      {
+        "name": "Twisted Fate",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Bilgewater",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Twitch",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2009
+      },{
+        "name": "Udyr",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Urgot",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2010
+      },
+      {
+        "name": "Varus",
+        "gender": "Male",
+        "lane": "ADC",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Vayne",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Veigar",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Bandle City",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Vel'Koz",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Void",
+        "resource": "Mana",
+        "year": 2014
+      },
+      {
+        "name": "Vex",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2021
+      },
+      {
+        "name": "Vi",
+        "gender": "Female",
+        "lane": "Jungle",
+        "region": "Piltover",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Viego",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Shadow Isles",
+        "resource": "None",
+        "year": 2021
+      },
+      {
+        "name": "Viktor",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Vladimir",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Noxus",
+        "resource": "Health",
+        "year": 2010
+      },
+      {
+        "name": "Volibear",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Freljord",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Warwick",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Wukong",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Xayah",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Ionia",
+        "resource": "Mana",
+        "year": 2017
+      },
+      {
+        "name": "Xerath",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Shurima",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Xin Zhao",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Demacia",
+        "resource": "Mana",
+        "year": 2010
+      }, {
+        "name": "Yasuo",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Ionia",
+        "resource": "Flow",
+        "year": 2013
+      },
+      {
+        "name": "Yone",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Ionia",
+        "resource": "None",
+        "year": 2020
+      },
+      {
+        "name": "Yorick",
+        "gender": "Male",
+        "lane": "Top",
+        "region": "Shadow Isles",
+        "resource": "Mana",
+        "year": 2011
+      },
+      {
+        "name": "Yuumi",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Bandle City",
+        "resource": "Mana",
+        "year": 2019
+      },
+      {
+        "name": "Zac",
+        "gender": "Male",
+        "lane": "Jungle",
+        "region": "Zaun",
+        "resource": "Health",
+        "year": 2013
+      },
+      {
+        "name": "Zed",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Ionia",
+        "resource": "Energy",
+        "year": 2012
+      },
+      {
+        "name": "Zeri",
+        "gender": "Female",
+        "lane": "ADC",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2022
+      },
+      {
+        "name": "Ziggs",
+        "gender": "Male",
+        "lane": "Mid",
+        "region": "Zaun",
+        "resource": "Mana",
+        "year": 2012
+      },
+      {
+        "name": "Zilean",
+        "gender": "Male",
+        "lane": "Support",
+        "region": "Runeterra",
+        "resource": "Mana",
+        "year": 2009
+      },
+      {
+        "name": "Zoe",
+        "gender": "Female",
+        "lane": "Mid",
+        "region": "Targon",
+        "resource": "Mana",
+        "year": 2017
+      },
+      {
+        "name": "Zyra",
+        "gender": "Female",
+        "lane": "Support",
+        "region": "Ixtal",
+        "resource": "Mana",
+        "year": 2012
+      }
+    ]
